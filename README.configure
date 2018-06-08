@@ -1,0 +1,12 @@
+$ cd
+$ python -V
+3.6.4
+$ python -m venv pipeline
+$ pip install --upgrade pip
+$ pip -V
+10.0.1
+$ source ~/pipeline/bin/activate
+(pipeline) $ cd Documents/workspace/python3/python-connectors
+(pipeline) $ brew install libev
+(pipeline) $ pip install -r requirements.txt # OR python setup.py install
+

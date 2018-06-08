@@ -4,6 +4,10 @@ cassandra-driver==3.14.0
 docutils==0.14
 elasticsearch==6.2.0
 jmespath==0.9.3
+PyJWT==1.6.4
 python-dateutil==2.7.3
+PyYAML==3.12
 s3transfer==0.1.13
-setuptools==28.8.0
+setuptools==39.2.0
+six==1.11.0
+urllib3==1.22
