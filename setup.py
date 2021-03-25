@@ -21,6 +21,6 @@ setup(
         'elasticsearch==2.3.0',
         'ujson==1.33',
         'PyJWT==1.4.0',
-        'PyYAML==3.11'
+        'PyYAML==5.4'
     ]
 )
