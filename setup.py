@@ -19,7 +19,7 @@ setup(
         'botocore==1.3.30',
         'cassandra-driver==3.4.1',
         'elasticsearch==2.3.0',
-        'ujson==1.33',
+        'ujson==5.4.0',
         'PyJWT==1.4.0',
         'PyYAML==3.11'
     ]
